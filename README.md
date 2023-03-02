@@ -5,6 +5,7 @@
 - 📫 How to reach me 
   - LinkedIn profile: https://www.linkedin.com/in/pavithra-yuvaraj-a88a7187/
   - Google developer profile: https://g.dev/PavithraAndroid
+  - Medium: https://medium.com/@yuvarajpavithra95
 
 <!---
 PavithraYuvaraj/PavithraYuvaraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
